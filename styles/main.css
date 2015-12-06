@@ -1,0 +1,24 @@
+.mainbox {
+    margin: auto;
+    width: 60%;
+    height: 90%;
+    border:3px solid #73AD21;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#button_quote {
+    display: table;
+    margin: 0 auto
+}
+
+#text {
+    text-align: center;
+}
+
+#origin {
+    text-align: right;
+}
